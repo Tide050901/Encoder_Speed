@@ -1,0 +1,406 @@
+{
+  "name": "LED",
+  "type": "ARM",
+  "dependenceList": [],
+  "srcDirs": [
+    ".eide/deps"
+  ],
+  "virtualFolder": {
+    "name": "<virtual_root>",
+    "files": [],
+    "folders": [
+      {
+        "name": "Chaoxi",
+        "files": [
+          {
+            "path": "../Encoder_Speed/Chaoxi/CountSensor.c"
+          },
+          {
+            "path": "../Encoder_Speed/Chaoxi/CountSensor.h"
+          },
+          {
+            "path": "../Encoder_Speed/Chaoxi/Encoder.c"
+          },
+          {
+            "path": "../Encoder_Speed/Chaoxi/Encoder.h"
+          },
+          {
+            "path": "../Encoder_Speed/Chaoxi/LED.c"
+          },
+          {
+            "path": "../Encoder_Speed/Chaoxi/LED.h"
+          },
+          {
+            "path": "../Encoder_Speed/Chaoxi/OLED_Font.h"
+          },
+          {
+            "path": "../Encoder_Speed/Chaoxi/OLED.c"
+          },
+          {
+            "path": "../Encoder_Speed/Chaoxi/OLED.h"
+          },
+          {
+            "path": "../Encoder_Speed/Chaoxi/WeiDai.h"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "Library",
+        "files": [
+          {
+            "path": "../Encoder_Speed/Library/misc.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/misc.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_adc.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_adc.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_bkp.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_bkp.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_can.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_can.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_cec.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_cec.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_crc.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_crc.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_dac.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_dac.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_dbgmcu.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_dbgmcu.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_dma.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_dma.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_exti.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_exti.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_flash.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_flash.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_fsmc.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_fsmc.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_gpio.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_gpio.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_i2c.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_i2c.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_iwdg.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_iwdg.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_pwr.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_pwr.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_rcc.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_rcc.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_rtc.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_rtc.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_sdio.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_sdio.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_spi.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_spi.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_tim.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_tim.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_usart.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_usart.h"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_wwdg.c"
+          },
+          {
+            "path": "../Encoder_Speed/Library/stm32f10x_wwdg.h"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "Strat",
+        "files": [
+          {
+            "path": "../Encoder_Speed/Start/core_cm3.c"
+          },
+          {
+            "path": "../Encoder_Speed/Start/core_cm3.h"
+          },
+          {
+            "path": "../Encoder_Speed/Start/startup_stm32f10x_md.s"
+          },
+          {
+            "path": "../Encoder_Speed/Start/stm32f10x.h"
+          },
+          {
+            "path": "../Encoder_Speed/Start/system_stm32f10x.c"
+          },
+          {
+            "path": "../Encoder_Speed/Start/system_stm32f10x.h"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "System",
+        "files": [
+          {
+            "path": "../Encoder_Speed/System/Delay.c"
+          },
+          {
+            "path": "../Encoder_Speed/System/Delay.h"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "User",
+        "files": [
+          {
+            "path": "../Encoder_Speed/User/main.c"
+          },
+          {
+            "path": "../Encoder_Speed/User/stm32f10x_conf.h"
+          },
+          {
+            "path": "../Encoder_Speed/User/stm32f10x_it.c"
+          },
+          {
+            "path": "../Encoder_Speed/User/stm32f10x_it.h"
+          }
+        ],
+        "folders": []
+      }
+    ]
+  },
+  "outDir": "build",
+  "deviceName": null,
+  "packDir": null,
+  "miscInfo": {
+    "uid": "c4b307aaab9ad4495ea3838d3e352c29"
+  },
+  "targets": {
+    "Target 1": {
+      "excludeList": [],
+      "toolchain": "AC5",
+      "compileConfig": {
+        "cpuType": "Cortex-M3",
+        "floatingPointHardware": "none",
+        "scatterFilePath": "",
+        "useCustomScatterFile": true,
+        "storageLayout": {
+          "RAM": [
+            {
+              "tag": "RAM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            },
+            {
+              "tag": "RAM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            },
+            {
+              "tag": "RAM",
+              "id": 3,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            },
+            {
+              "tag": "IRAM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x20000000",
+                "size": "0x10000"
+              },
+              "isChecked": true,
+              "noInit": false
+            },
+            {
+              "tag": "IRAM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            }
+          ],
+          "ROM": [
+            {
+              "tag": "ROM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            },
+            {
+              "tag": "ROM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            },
+            {
+              "tag": "ROM",
+              "id": 3,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            },
+            {
+              "tag": "IROM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x8000000",
+                "size": "0x80000"
+              },
+              "isChecked": true,
+              "isStartup": true
+            },
+            {
+              "tag": "IROM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            }
+          ]
+        },
+        "options": "null"
+      },
+      "uploader": "STLink",
+      "uploadConfig": {
+        "bin": "",
+        "proType": "SWD",
+        "speed": 8000,
+        "otherCmds": "",
+        "resetMode": "default",
+        "runAfterProgram": true,
+        "address": "0x08000000",
+        "elFile": "None",
+        "optionBytes": ".eide/target 1.st.option.bytes.ini"
+      },
+      "uploadConfigMap": {},
+      "custom_dep": {
+        "name": "default",
+        "incList": [
+          "../Encoder_Speed/Start",
+          "../Encoder_Speed/Library",
+          "../Encoder_Speed/User",
+          "../Encoder_Speed/System",
+          "../Encoder_Speed/Chaoxi",
+          ".cmsis/include",
+          "../Encoder_Speed/RTE/_Target 1",
+          ".eide/deps"
+        ],
+        "libList": [],
+        "sourceDirList": [],
+        "defineList": [
+          "STM32F10X_MD",
+          "USE_STDPERIPH_DRIVER"
+        ]
+      }
+    }
+  },
+  "version": "3.3"
+}
